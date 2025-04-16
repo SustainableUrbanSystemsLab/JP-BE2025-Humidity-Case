@@ -3,7 +3,7 @@
 # Incorporating Convective Heat Transfer and Humidity Effects in Urban Microclimate Modeling: Should we care?
 
 
-![](C:\Users\engsi\AppData\Roaming\marktext\images\2025-04-15-18-25-11-image.png)
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/ed173742-7601-4df5-b347-27d41c81eb17" />
 
 
 
