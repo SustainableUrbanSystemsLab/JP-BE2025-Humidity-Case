@@ -1,4 +1,4 @@
-# # JP-BE2025-Humidity-Case
+# JP-BE2025-Humidity-Case
 
 # How much computational complexity is necessary to model relevant aspects in microclimate urban physics?
 
