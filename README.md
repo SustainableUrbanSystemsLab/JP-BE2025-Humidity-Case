@@ -117,4 +117,4 @@ Rahimi, S., Kastner, P., & Berardi, U. (2025). Incorporating convective heat tra
 ```
 **Source**
 
-[Link]([https://www.sciencedirect.com/science/article/pii/S0360132325003403](https://www.researchgate.net/publication/389890731_Incorporating_Convective_Heat_Transfer_and_Humidity_Effects_in_Urban_Microclimate_Modeling_Should_we_care)) to the paper.
+[Link](https://www.researchgate.net/publication/389890731_Incorporating_Convective_Heat_Transfer_and_Humidity_Effects_in_Urban_Microclimate_Modeling_Should_we_care) to the paper.
