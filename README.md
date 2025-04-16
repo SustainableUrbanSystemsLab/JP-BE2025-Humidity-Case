@@ -109,6 +109,8 @@ Rahimi, S., Kastner, P., & Berardi, U. (2025). Incorporating convective heat tra
 
   year = {2025},
 
+  url={https://www.sciencedirect.com/science/article/pii/S0360132325003403}, 
+
   school = {Toronto Metropolitan University},
 
   type = {Journal Paper}
