@@ -21,13 +21,13 @@ Accurate microclimate data, obtained through observation or CFD models, is cruci
 - Name: [Sina Rahimi](mailto:sina.rahimi@torontomu.ca)
 - LinkedIn: [Link](https://www.linkedin.com/in/sinarahimi2020/)
 - Institution: Toronto Metropolitan University
-<<<<<<< HEAD
+
 - Program: Building Scinece
 - Advisors: Dr. Patrick Kastner, Dr. Umberto Berardi
-=======
+
 - Program: PhD Building Science
 - Advisors: Dr. Umberto Berardi, Dr. Patrick Kastner
->>>>>>> 4dbc10748c203ad3196bbdb30084e4313ea8ea90
+
 
 #Repository Structure
 
