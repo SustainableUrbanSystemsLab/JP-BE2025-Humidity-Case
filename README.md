@@ -100,7 +100,7 @@ Rahimi, S., Kastner, P., & Berardi, U. (2025). Incorporating convective heat tra
 ```
 
 **Bibtex**
-
+```
 @Journalpaper{
 
   title = {Incorporating convective heat transfer and humidity effects in urban microclimate modeling: Should we care?},
@@ -112,7 +112,7 @@ Rahimi, S., Kastner, P., & Berardi, U. (2025). Incorporating convective heat tra
   school = {Toronto Metropolitan University},
 
   type = {Journal Paper}
-
+```
 **Source**
 
 [Link](https://www.sciencedirect.com/science/article/pii/S0360132325003403) to the paper.
