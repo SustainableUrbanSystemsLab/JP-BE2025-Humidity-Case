@@ -1,9 +1,7 @@
 # JP-BE2025-Humidity-Case
 
-# How much computational complexity is necessary to model relevant aspects in microclimate urban physics?
+# Incorporating Convective Heat Transfer and Humidity Effects in Urban Microclimate Modeling: Should we care?
 
-<<<<<<< HEAD
-**Incorporating Convective Heat Transfer and Humidity Effects in Urban Microclimate Modeling: Should we care?****?**
 
 ![](C:\Users\engsi\AppData\Roaming\marktext\images\2025-04-15-18-25-11-image.png)
 
