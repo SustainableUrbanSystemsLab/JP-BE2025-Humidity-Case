@@ -23,8 +23,7 @@ Accurate microclimate data, obtained through observation or CFD models, is cruci
 - Institution: Toronto Metropolitan University
 
 - Program: Building Scinece
-- Advisors: Dr. Patrick Kastner, Dr. Umberto Berardi
-
+- Advisors: [Dr. Patrick Kastner] (https://arch.gatech.edu/people/patrick-kastner), [Dr. Umberto Berardi] (https://sites.google.com/site/umbertoberardihomepage/home)
 - Program: PhD Building Science
 - Advisors: Dr. Umberto Berardi, Dr. Patrick Kastner
 
@@ -46,12 +45,9 @@ Clone the repository to any place you want using the
 the following command:
 
 ```console
-<<<<<<< HEAD
 @-: git clone
 https://github.com/SustainableUrbanSystemsLab/humidityRhoThermo.git
-=======
 @-: git clone https://github.com/SustainableUrbanSystemsLab/humidityRhoThermo.git
->>>>>>> 4dbc10748c203ad3196bbdb30084e4313ea8ea90
 ```
 
 After that, load your OpenFOAM environment (if it has not already
@@ -76,12 +72,9 @@ Clone the repository to any place you want using the
 the following command:
 
 ```console
-<<<<<<< HEAD
 @-: git clone
 https://github.com/SustainableUrbanSystemsLab/JP-BE2025-Humidity-Case.git
-=======
 @-: git clone https://github.com/SustainableUrbanSystemsLab/CP-IBPC2024-Humidity-Case/tree/main/tutorial.git
->>>>>>> 4dbc10748c203ad3196bbdb30084e4313ea8ea90
 ```
 
 After that, load your OpenFOAM environment (if it has not already happened) and move it into the repository. Here, check your version you want:
@@ -98,7 +91,6 @@ parameters of sanppyhexmeshDict in the system folder.
 
 # Citation
 
-<<<<<<< HEAD
 Please cite our work if you decide to use this for your own research.
 
 **APA**
@@ -109,7 +101,7 @@ Rahimi, S., Kastner, P., & Berardi, U. (2025). Incorporating convective heat tra
 
 **Bibtex**
 
-@confpaper{
+@Journalpaper{
 
   title = {Incorporating convective heat transfer and humidity effects in urban microclimate modeling: Should we care?},
 
@@ -123,18 +115,4 @@ Rahimi, S., Kastner, P., & Berardi, U. (2025). Incorporating convective heat tra
 
 **Source**
 
-[https://www.sciencedirect.com/science/article/pii/S0360132325003403](Link) to the paper.
-=======
-```console
-@confpaper{
-  title = {How much computational complexity is necessary to model relevant aspects in microclimate urban physics?},
-  author = {Rahimi, Sina},
-  year = {2024},
-  school = {Toronto Metropolitan University},
-  type = {Conference Paper}
-}
-```
-# Source
-
-[Link](https://www.researchgate.net/publication/384971986_How_much_computational_complexity_is_necessary_to_model_relevant_aspects_in_microclimate_urban_physics) to the paper.
->>>>>>> 4dbc10748c203ad3196bbdb30084e4313ea8ea90
+[Link](https://www.sciencedirect.com/science/article/pii/S0360132325003403) to the paper.
