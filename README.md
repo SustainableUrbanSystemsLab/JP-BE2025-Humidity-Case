@@ -6,8 +6,6 @@
 ![](C:\Users\engsi\AppData\Roaming\marktext\images\2025-04-15-18-25-11-image.png)
 
 
-=======
->>>>>>> 4dbc10748c203ad3196bbdb30084e4313ea8ea90
 
 # Abstract
 
