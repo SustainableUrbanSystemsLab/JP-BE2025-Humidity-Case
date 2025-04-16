@@ -23,7 +23,7 @@ Accurate microclimate data, obtained through observation or CFD models, is cruci
 - Institution: Toronto Metropolitan University
 
 - Program: Building Scinece
-- Advisors: [Dr. Patrick Kastner] (https://arch.gatech.edu/people/patrick-kastner), [Dr. Umberto Berardi] (https://sites.google.com/site/umbertoberardihomepage/home)
+- Advisors: [Dr. Patrick Kastner](https://arch.gatech.edu/people/patrick-kastner), [Dr. Umberto Berardi](https://sites.google.com/site/umbertoberardihomepage/home)
 - Program: PhD Building Science
 - Advisors: Dr. Umberto Berardi, Dr. Patrick Kastner
 
