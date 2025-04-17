@@ -1,6 +1,6 @@
 # JP-BE2025-Humidity-Case
 
-# [Incorporating Convective Heat Transfer and Humidity Effects in Urban Microclimate Modeling: Should we care?](https://www.sciencedirect.com/science/article/pii/S0360132325003403)
+# [Incorporating Convective Heat Transfer and Humidity Effects in Urban Microclimate Modeling: Should we care?](https://www.researchgate.net/publication/389890731_Incorporating_Convective_Heat_Transfer_and_Humidity_Effects_in_Urban_Microclimate_Modeling_Should_we_care)
 
 
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/c0110f1b-a4c1-4b7f-b730-4e5f825effb7" />
