@@ -28,7 +28,7 @@ Accurate microclimate data, obtained through observation or CFD models, is cruci
 - Advisors: Dr. Umberto Berardi, Dr. Patrick Kastner
 
 
-#Repository Structure
+# Repository Structure
 
 - ```tutorial/```: Directory containing the case study used in the research.
 - ```Resources/```: Directory containing weather station data used in the research.
